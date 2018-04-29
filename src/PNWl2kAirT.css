@@ -1,0 +1,18 @@
+GtkButton {
+    background: yellow;
+    font-weight: bold;
+}
+
+.labSt {
+   background: Thistle;
+   color: purple; 
+}
+
+GtkTextView, GtkEntry{
+    background-color: SeaShell;
+}
+
+GtkEntry
+{
+    font-weight: bold;
+}
